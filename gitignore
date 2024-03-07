@@ -1,0 +1,15 @@
+logs
+
+node_modules
+
+build
+
+environments
+
+public
+
+!public/sample.txt
+
+/environments
+
+/package-lock.json
